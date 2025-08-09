@@ -1,0 +1,18 @@
+import time, os, curses
+
+print("Loading sysmigu...")
+time.sleep(3)
+print("Ok...")
+time.sleep(0.3)
+print("Loading Vocaloid...")
+time.sleep(3)
+print("Ok...")
+time.sleep(0.3)
+print("Loading Encryptation...")
+time.sleep(3)
+print("Ok...")
+time.sleep(0.3)
+print("Loading Animations...")
+time.sleep(3)
+print("Ok...")
+time.sleep(0.3)
