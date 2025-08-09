@@ -69,7 +69,7 @@ while True:
             time.sleep(1) 
             exit()
 
-        print("Checking latest system...")
+        print("Checking system...")
         time.sleep(3)
 
         print(platform.system(), "|| platform info: ", platform.platform(), "|| ")
@@ -78,7 +78,7 @@ while True:
         time.sleep(3)
         print("Network name of the computer: ", platform.node())
 
-        print("Detecting architecture...")
+        print("Detecting python architecture ejecutable...")
         time.sleep(2)
         print("Architecture of python ejecutable: ", platform.machine())
 
