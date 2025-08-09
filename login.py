@@ -1,7 +1,7 @@
 from random import randint, uniform, random
 import time, os, platform
 
-#Dic
+#Dict
 
 users = {
     "miguuser" : "m1gu!",
