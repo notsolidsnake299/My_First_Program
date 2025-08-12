@@ -1,7 +1,7 @@
 # My_First_Program
 hello world
 
-# This program made in python is my first project, so, It is a simple program, while i learn the language ;)
+# This program made in python is my first project, so, It is a simple program, while i learn the python programming language ;)
 
 # I plan to do some things on this show, which I won't mention
 
