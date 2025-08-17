@@ -1,7 +1,7 @@
 from random import randint, uniform, random
 import time, os, platform
 
-#Dict
+#Dic
 
 users = {
     "miguuser" : "m1gu!",
@@ -69,7 +69,7 @@ while True:
             time.sleep(1) 
             exit()
 
-        print("Checking system...")
+        print("Checking latest system...")
         time.sleep(3)
 
         print(platform.system(), "|| platform info: ", platform.platform(), "|| ")
@@ -78,7 +78,7 @@ while True:
         time.sleep(3)
         print("Network name of the computer: ", platform.node())
 
-        print("Detecting python architecture ejecutable...")
+        print("Detecting architecture...")
         time.sleep(2)
         print("Architecture of python ejecutable: ", platform.machine())
 
@@ -101,4 +101,4 @@ while True:
         time.sleep(2.5)
         exit()
 
-import fpl
+import fpl.py
