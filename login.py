@@ -101,7 +101,7 @@ while True:
         time.sleep(2.5)
         exit()
 
-print("You want to open extra software? just only for demostrationt purposes :)")
+print("You want to open extra software? just only for demostration purposes :)")
 another_mesagge = input("R:")
 
 if another_mesagge == "yes":
