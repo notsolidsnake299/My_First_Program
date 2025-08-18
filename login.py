@@ -1,4 +1,4 @@
-from random import randint, uniform, random
+from random import random
 import time, os, platform
 
 #Dic
