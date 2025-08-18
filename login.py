@@ -105,7 +105,7 @@ print("You want to open extra software? just only for demostrationt purposes :)"
 another_mesagge = input("R:")
 
 if another_mesagge == "yes":
-    import fpl.py
+    import fpl
 else:
     print("have a nice day :D")
     exit()
