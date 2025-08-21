@@ -116,8 +116,6 @@ def cpu_monitor(stdscr):
 def monitor_menu(stdscr):
     stdscr.clear()
     while True:
-        
-        startupsys = psutil.boot_time()
 
         stdscr.addstr(9, 50,f"Time System Startup: {startupsys} seconds")
         stdscr.addstr(1, 1, "1: Monitor")
