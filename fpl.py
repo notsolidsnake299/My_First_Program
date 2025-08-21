@@ -73,15 +73,13 @@ def animation(stdscr):
 
 #Platform
 def system_settings(stdscr):
-    stdscr.clear()
 
     while True:
         system = (platform.system(),  platform.platform())
         networknoc = (platform.node())
+        curses.doupdate()
         stdscr.addstr(1,1, f"System: {system} || {networknoc}")
         stdscr.addstr(3,1, "Press q to exit")
-        curses.doupdate()
-        window.addstr()
         key1 = stdscr.getch()
         if key1 == ord('q'):
             break
