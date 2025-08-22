@@ -1,11 +1,19 @@
 # My_First_Program
 hello world
 
-#Update August 21, 2025: New minimal features, i added disk usage and memory usage i plan to improve this program fast i can :)
-The noticeable changes made are:
-*"Fix for the unusual program flickering"
-*"Logic errors have been corrected"
-*"And other minor improvements"
+#August 22, 2025 Update: Minimal Features and Improvements
+
+*"I've made some noticeable changes to the program:"
+
+*"Fixed unusual flickering: The issue causing the screen to flicker has been resolved."
+
+*"Corrected logic errors: Several logical bugs in the code have been fixed."
+
+*"Minor improvements: Other small enhancements have been implemented"
+
+*"Task manager: The program now includes a task manager feature. Currently, it only shows one process, but I plan to fix this so it displays the top 10 processes."
+
+I'm working on improving this program as fast as I can.
 
 I plan to add more functionality in the future, which I won't mention for now.
 
