@@ -3,15 +3,16 @@ hello world
 
 #August 22, 2025 Update: Minimal Features and Improvements
 
-   -"I've made some noticeable changes to the program:"
+ Features and Improvements
+1. I've made some noticeable changes to the program:
 
- -"Fixed unusual flickering: The issue causing the screen to flicker has been resolved."
+   - Fixed unusual flickering: The issue causing the screen to flicker has been resolved.
 
- -"Corrected logic errors: Several logical bugs in the code have been fixed."
+   - Corrected logic errors: Several logical bugs in the code have been fixed.
 
- -"Minor improvements: Other small enhancements have been implemented"
+   - Minor improvements: Other small enhancements have been implemented.
 
- -"Task manager: The program now includes a task manager feature. Currently, it only shows one process, but I plan to fix this so it displays the top 10 processes."
+   - Task manager: The program now includes a task manager feature. Currently, it only shows one process, but I plan to fix         this so it displays the top 10 processes. 
 
 I'm working on improving this program as fast as I can.
 
