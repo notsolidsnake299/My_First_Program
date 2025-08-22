@@ -3,7 +3,7 @@ hello world
 
 #August 22, 2025 Update: Minimal Features and Improvements
 
- -"I've made some noticeable changes to the program:"
+   -"I've made some noticeable changes to the program:"
 
  -"Fixed unusual flickering: The issue causing the screen to flicker has been resolved."
 
