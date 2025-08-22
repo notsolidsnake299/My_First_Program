@@ -16,7 +16,7 @@ hello world
 
 I'm working on improving this program as fast as I can.
 
-I plan to add more functionality in the future, which I won't mention for now.
+I plan to add more functionality in the future, which I won't mention
 
 For now, this is a demo program. As I continue to learn, I'll add more features, but I'll keep them simple for the time being.
 this program is a demo, As i learn, I will add some things (and minimal things while i'm learning)
