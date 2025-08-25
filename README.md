@@ -15,4 +15,3 @@ Feel free to use the code as a base for your own task manager.
 
 I plan to add more functionality in the future, which I won't mention
 
-login is the first main of the code, questions is the 2nd module, and, the third program is a separate module for other purposes (like task manager).
