@@ -1,12 +1,13 @@
-# August 25, 2025 Update: More Minimal Features and Improvements for tskm.py
+# August 27, 2025 Update: More Minimal Features and Improvements for tskm.py
 
 Hello World!
 
  Features and Improvements
 1. I've made some noticeable changes to the program tskm.py:
 
-   - I've added a list of processes (that are running on your computer), their usage percentages, and their PIDs.
+   - I've added a list of processes (that are running on your computer), their usage percentages, and their PIDs, more PIDs.
    - Select and Kill are added
+   - Fixed the lag and delay problems
 
 2.Additional notes:
 
