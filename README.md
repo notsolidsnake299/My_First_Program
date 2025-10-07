@@ -10,6 +10,8 @@ Hello World!
 
 The project is considered incomplete for now. I'll continue to improve it at some point.
 
+This code runs on Linux; I can adapt it for Windows.
+
 The program is still imperfect, so I'll keep improving it as fast as I can. Once it's done, you can use it! :D 
 Feel free to use the code as a base for your own task manager.
 
